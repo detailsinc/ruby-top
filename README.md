@@ -1,2 +1,2 @@
 # ruby-top
-The Odin Project ruby projects
+My solutions to the projects in the odin project curriculum with ruby.
